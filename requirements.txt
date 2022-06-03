@@ -1,0 +1,6 @@
+boto3
+pyotp
+prefect
+fake_useragent
+selenium
+webdriver-manager
